@@ -1,7 +1,7 @@
 # Hi there, I'm Yussuf Tamami! 👋
 
 🎓 **Computer Science Student**  
-Welcome to my GitHub! I’m passionate about solving problems, learning new technologies, and exploring the world of computer science—from the fundamentals to the deepest concepts and tools.
+Welcome to my GitHub! I have a strong passion about Computer Science and technology, I love learning new tools and technologies, and diving from the fundamentals to the most advanced concepts in the field.
 
 ---
 
